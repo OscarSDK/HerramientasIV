@@ -20,11 +20,9 @@ public class H4GitHub {
         /* Nombre Jak:*/
         System.err.println("Mi nombre de colaborador es Jak");
         
-        
-        
-        
-        
-        
+        /* Nombre Steve:*/
+        System.err.println("Mi nombre de colaborador es Steve");
+           
     }
     
 }
