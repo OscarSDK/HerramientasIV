@@ -9,7 +9,8 @@ public class H4GitHub {
         int x = 4;
         int y = 5;
         int z = 6;
-        int suma = x+y+z;
+        int m = 10;
+        int suma = x+y+z+m;
         System.out.println("La suma:"+suma);
     }
     
