@@ -13,6 +13,16 @@ public class H4GitHub {
         int k= 5;
         int suma = x+y+z+m+k;
         System.out.println("La suma:"+suma);
+        
+        /* Nombre Oscar: */ 
+        System.out.println("Mi nombre de colaborador es : Oscar");
+        
+        
+        
+        
+        
+        
+        
     }
     
 }
